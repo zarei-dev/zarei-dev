@@ -4,7 +4,7 @@ Motivated and experienced web developer with a strong background in WordPress de
 
 [![](https://img.shields.io/badge/-linkedin-80deea?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zarei-dev/)
 [![](https://img.shields.io/badge/-Twitter-80deea?style=for-the-badge&logo=twitter)](https://twitter.com/zarei_dev)
-[![](https://img.shields.io/badge/-Telegram-039be5?style=for-the-badge&logo=telegram)](https://t.me/moza_dev)
+[![](https://img.shields.io/badge/-Telegram-039be5?style=for-the-badge&logo=telegram)](https://t.me/zarei_dev)
 [![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:mohammad.zarei1380@gmail.com)
 
 
