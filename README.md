@@ -1,4 +1,4 @@
-# Mohammad Zarei 🤞
+# Matt Zarei 🤞
 
 Motivated and experienced web developer with a strong background in WordPress development. Seeking a new opportunity to continue building and optimizing large-scale WordPress websites, using my skills in coding, analysis, and debugging. Passionate about open-source technology and dedicated to improving my skills in the field. Looking for a company where I can contribute my expertise and grow as a professional.
 
